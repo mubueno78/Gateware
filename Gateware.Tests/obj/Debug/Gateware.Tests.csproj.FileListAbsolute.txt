@@ -1,0 +1,17 @@
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Gateware.Tests.dll.config
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Gateware.Tests.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Gateware.Tests.pdb
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Gateware.Negocio.dll
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projetos\Gateware\Gateware.Tests\bin\Debug\Gateware.Negocio.pdb
+C:\Projetos\Gateware\Gateware.Tests\obj\Debug\Gateware.Tests.csprojAssemblyReference.cache
+C:\Projetos\Gateware\Gateware.Tests\obj\Debug\Gateware.Tests.csproj.CoreCompileInputs.cache
+C:\Projetos\Gateware\Gateware.Tests\obj\Debug\Gateware.Tests.csproj.CopyComplete
+C:\Projetos\Gateware\Gateware.Tests\obj\Debug\Gateware.Tests.dll
+C:\Projetos\Gateware\Gateware.Tests\obj\Debug\Gateware.Tests.pdb

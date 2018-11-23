@@ -1,0 +1,6 @@
+C:\Projetos\Gateware\Gateware.Negocio\obj\Debug\Gateware.Negocio.csproj.CoreCompileInputs.cache
+C:\Projetos\Gateware\Gateware.Negocio\bin\Debug\Gateware.Negocio.dll
+C:\Projetos\Gateware\Gateware.Negocio\bin\Debug\Gateware.Negocio.pdb
+C:\Projetos\Gateware\Gateware.Negocio\obj\Debug\Gateware.Negocio.dll
+C:\Projetos\Gateware\Gateware.Negocio\obj\Debug\Gateware.Negocio.pdb
+C:\Projetos\Gateware\Gateware.Negocio\obj\Debug\Gateware.Negocio.csprojAssemblyReference.cache
